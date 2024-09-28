@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Avance01 {
 
+
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
