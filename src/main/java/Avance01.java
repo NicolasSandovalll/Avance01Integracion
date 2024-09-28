@@ -8,6 +8,7 @@ public class Avance01 {
     private static String matriculaActual = null;
     private static List<String> usuarios = new ArrayList<>();
 
+
     private static final int CAPACIDAD_7 = 7;
     private static final int CAPACIDAD_5 = 5;
     private static final int CAPACIDAD_3 = 3;
