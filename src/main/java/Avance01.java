@@ -6,10 +6,7 @@ public class Avance01 {
 
     private static final Scanner scanner = new Scanner(System.in);
 
-    public static void main(String[] args) {
-        menuPrincipal();
-        scanner.close(); // libera recursos (buena práctica)
-    }
+
 
     public static void mostrarMenuPrincipal() {
         System.out.println("\nMenú Principal\n");
