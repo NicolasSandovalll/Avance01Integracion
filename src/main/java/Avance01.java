@@ -65,6 +65,7 @@ public class Avance01 {
         }
     }
 
+
     public static void reservarLogia() {
         System.out.println("Aquí va la opción (reservarLogia)");
         // Implementar lógica de reserva aquí
